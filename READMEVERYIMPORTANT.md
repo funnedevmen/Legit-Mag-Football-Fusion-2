@@ -1,0 +1,3 @@
+# Legit-Mag-Football-Fusion-2
+Hi This is js a script wit legit mag for FF2
+THIS IS WORKING AT THE DATE OF 12/22/22 I WILL KEEP TESTING DAILY IF POSSIBLE AND REMOVE IT IF NEEDED BYE BYE 
