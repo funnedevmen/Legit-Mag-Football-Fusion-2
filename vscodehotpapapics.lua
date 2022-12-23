@@ -9,6 +9,8 @@ local player = game.Players.LocalPlayer
 local rs = game:GetService("RunService")
 
 
+
+
 function magBall(ball)
    if ball and player.Character then
        firetouchinterest(player.Character["Left Arm"], ball, 0)
@@ -51,3 +53,5 @@ local changeclr = win:Tab("Change UI Color")
 changeclr:Colorpicker("Change UI Color",Color3.fromRGB(44, 120, 224), function(t)
 lib:ChangePresetColor(Color3.fromRGB(t.R * 255,  t.G * 255, t.B * 255))
 end)
+
+print("I took your ip, but hey atleast you can actually catch now!!!")
